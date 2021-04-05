@@ -74,7 +74,7 @@ ol ul {
 }
 
 ul li {
-  padding: 0.25em;
+  padding: 0 .25em;
 }
 
 ul li:first-child {
